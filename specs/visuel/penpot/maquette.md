@@ -1,6 +1,6 @@
 # Maquette Penpot — QR code component (refonte v2.0.0)
 
-> SDL-FM 1.5.0 Phase 3 (remise à niveau, étape B, lot 2). Fichier Penpot : « FM Newbie » (créé par Koya ; nom vérifié avant chaque écriture), page « QR code ». **En attente de validation (G3).**
+> SDL-FM 1.5.0 Phase 3 (remise à niveau, étape B, lot 2). Fichier Penpot : « FM Newbie » (créé par Koya ; nom vérifié avant chaque écriture), page « QR code ». **Validée (G3, 2026-11-05)** avec les propositions : même carte centrée en tablette (Q-B3), seuils de 5 %, espacement des lettres de 0,2 px du paragraphe (mesuré).
 > Décisions G2 appliquées : texte alternatif du QR code (Q-B1), titre en `h1` (Q-B2), même carte à toutes les largeurs (Q-B3), attribution comme au lot 1 (Q-B4).
 
 ## Rendu des exports
