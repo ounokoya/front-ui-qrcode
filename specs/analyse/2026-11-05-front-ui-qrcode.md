@@ -40,6 +40,10 @@ Aucun écart.
 |---|---|
 | À 320 px, le titre tient sur 3 lignes et se coupe au trait d'union de « front-end » (« front- » / « end skills… ») | Sans suite : coupure normale d'un mot composé ; aucune image FM à cette largeur, aucune règle de FM concernée |
 
-## 4. Verdict
+## 4. En ligne (Phase 12)
 
-Conforme à la spec et à la maquette validée (G3). Prêt pour la Phase 9 (README).
+`BASE_URL=https://ounokoya.github.io/front-ui-qrcode/ npx playwright test --workers=2` : **27 réussis sur 27**, écarts visuels identiques au local (0,63 % et 3,65 %), sur la v2.0.0 déployée depuis la branche `gh-pages` (publication avec l'accord de Koya, 2026-11-05). GitHub a activé Pages de lui-même à la première publication de la branche `gh-pages`.
+
+## 5. Verdict
+
+Conforme à la spec et à la maquette validée (G3). README fait (Phase 9) ; v2.0.0 en ligne. Prêt pour « Edit solution » sur FM (Phase 13).
